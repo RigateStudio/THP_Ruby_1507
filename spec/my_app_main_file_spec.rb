@@ -1,0 +1,1 @@
+require_relative '../lib/my_app_main_file'
